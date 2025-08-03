@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\.Net projects-2025\StringReversal\bin\Debug\StringReversal.exe.config
+C:\Users\LENOVO\Documents\.Net projects-2025\StringReversal\bin\Debug\StringReversal.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\StringReversal\bin\Debug\StringReversal.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\StringReversal\obj\Debug\StringReversal.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\StringReversal\obj\Debug\StringReversal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\StringReversal\obj\Debug\StringReversal.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\StringReversal\obj\Debug\StringReversal.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\StringReversal\obj\Debug\StringReversal.exe.config
