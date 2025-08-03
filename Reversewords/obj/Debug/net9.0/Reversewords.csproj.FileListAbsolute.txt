@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\bin\Debug\net9.0\Reversewords.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\bin\Debug\net9.0\Reversewords.deps.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\bin\Debug\net9.0\Reversewords.runtimeconfig.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\bin\Debug\net9.0\Reversewords.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\bin\Debug\net9.0\Reversewords.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\Reversewords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\Reversewords.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\Reversewords.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\Reversewords.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\Reversewords.sourcelink.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\Reversewords.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\refint\Reversewords.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\Reversewords.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\Reversewords.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Reversewords\obj\Debug\net9.0\ref\Reversewords.dll
