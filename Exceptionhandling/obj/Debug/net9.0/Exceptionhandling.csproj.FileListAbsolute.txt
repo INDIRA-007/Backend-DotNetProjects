@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\bin\Debug\net9.0\Exceptionhandling.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\bin\Debug\net9.0\Exceptionhandling.deps.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\bin\Debug\net9.0\Exceptionhandling.runtimeconfig.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\bin\Debug\net9.0\Exceptionhandling.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\bin\Debug\net9.0\Exceptionhandling.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\Exceptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\Exceptionhandling.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\Exceptionhandling.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\Exceptionhandling.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\Exceptionhandling.sourcelink.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\Exceptionhandling.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\refint\Exceptionhandling.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\Exceptionhandling.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\Exceptionhandling.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Exceptionhandling\obj\Debug\net9.0\ref\Exceptionhandling.dll
