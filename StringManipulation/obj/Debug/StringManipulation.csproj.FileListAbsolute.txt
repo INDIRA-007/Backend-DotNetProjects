@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\StringManipulation\bin\Debug\StringManipulation.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\StringManipulation\bin\Debug\StringManipulation.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\StringManipulation\obj\Debug\StringManipulation.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\StringManipulation\obj\Debug\StringManipulation.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\StringManipulation\obj\Debug\StringManipulation.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\StringManipulation\obj\Debug\StringManipulation.exe.config
