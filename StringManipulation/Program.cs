@@ -48,6 +48,19 @@ namespace StringManipulation
             StringBuilder newStringBuilder = new StringBuilder("Hello World!");
             newStringBuilder.Replace("World", ".Net developers");
             Console.WriteLine(newStringBuilder);
+
+            //verbatim string
+            //preceded by @ character
+            //a verbatim does not have escapre character
+            //useful to spefify File path, SQL stirng, XML
+
+
+            //non-verbatim string having escape sequence
+            string str2 = "C:\\Program Files\\Microsoft.Net";
+
+            //verbatim string, no need of escapre sequence character
+            string strverbatim = @"c:\Program Files\Microsoft.NET";
+
         }
     }
 }
