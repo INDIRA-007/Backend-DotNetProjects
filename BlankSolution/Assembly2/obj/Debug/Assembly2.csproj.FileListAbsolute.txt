@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\bin\Debug\Assembly2.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\bin\Debug\Assembly2.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\bin\Debug\Assembly2.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\bin\Debug\Assembly1.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\bin\Debug\Assembly1.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\bin\Debug\Assembly1.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\obj\Debug\Assembly2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\obj\Debug\Assembly2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\obj\Debug\Assembly2.csproj.Up2Date
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\obj\Debug\Assembly2.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\obj\Debug\Assembly2.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\BlankSolution\Assembly2\obj\Debug\Assembly2.exe.config
