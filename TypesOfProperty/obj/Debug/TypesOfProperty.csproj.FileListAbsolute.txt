@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\TypesOfProperty\bin\Debug\TypesOfProperty.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\TypesOfProperty\bin\Debug\TypesOfProperty.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\TypesOfProperty\bin\Debug\TypesOfProperty.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\TypesOfProperty\obj\Debug\TypesOfProperty.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\TypesOfProperty\obj\Debug\TypesOfProperty.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\TypesOfProperty\obj\Debug\TypesOfProperty.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\TypesOfProperty\obj\Debug\TypesOfProperty.pdb

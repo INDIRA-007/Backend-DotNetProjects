@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\.Net projects-2025\WordReversal\bin\Debug\WordReversal.exe.config
+C:\Users\LENOVO\Documents\.Net projects-2025\WordReversal\bin\Debug\WordReversal.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\WordReversal\bin\Debug\WordReversal.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\WordReversal\obj\Debug\WordReversal.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\WordReversal\obj\Debug\WordReversal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\WordReversal\obj\Debug\WordReversal.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\WordReversal\obj\Debug\WordReversal.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\WordReversal\obj\Debug\WordReversal.exe.config

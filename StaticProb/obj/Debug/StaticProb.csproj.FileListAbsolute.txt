@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\.Net projects-2025\StaticProb\obj\Debug\StaticProb.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\StaticProb\obj\Debug\StaticProb.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\StaticProb\bin\Debug\StaticProb.exe.config
+C:\Users\LENOVO\Documents\.Net projects-2025\StaticProb\bin\Debug\StaticProb.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\StaticProb\bin\Debug\StaticProb.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\StaticProb\obj\Debug\StaticProb.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\StaticProb\obj\Debug\StaticProb.pdb

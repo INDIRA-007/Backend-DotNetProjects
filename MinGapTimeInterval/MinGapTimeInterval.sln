@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinGapTimeInterval", "MinGapTimeInterval.csproj", "{7C63E219-4A2A-4114-89EF-9AE66ED3BBD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C63E219-4A2A-4114-89EF-9AE66ED3BBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C63E219-4A2A-4114-89EF-9AE66ED3BBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C63E219-4A2A-4114-89EF-9AE66ED3BBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C63E219-4A2A-4114-89EF-9AE66ED3BBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7398C7F-AE52-4F28-BAEA-1B09FFE0277F}
+	EndGlobalSection
+EndGlobal

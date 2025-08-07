@@ -1,0 +1,2 @@
+C:\Users\LENOVO\Documents\.Net projects-2025\Staticproblem\obj\Debug\Staticproblem.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\Staticproblem\obj\Debug\Staticproblem.csproj.CoreCompileInputs.cache

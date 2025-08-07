@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\.Net projects-2025\MinGapTimeInterval\bin\Debug\MinGapTimeInterval.exe.config
+C:\Users\LENOVO\Documents\.Net projects-2025\MinGapTimeInterval\bin\Debug\MinGapTimeInterval.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\MinGapTimeInterval\bin\Debug\MinGapTimeInterval.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\MinGapTimeInterval\obj\Debug\MinGapTimeInterval.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\MinGapTimeInterval\obj\Debug\MinGapTimeInterval.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\MinGapTimeInterval\obj\Debug\MinGapTimeInterval.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\MinGapTimeInterval\obj\Debug\MinGapTimeInterval.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\MinGapTimeInterval\obj\Debug\MinGapTimeInterval.exe.config

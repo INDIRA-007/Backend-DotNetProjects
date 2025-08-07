@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\.Net projects-2025\SumFourLargest\bin\Debug\SumFourLargest.exe.config
+C:\Users\LENOVO\Documents\.Net projects-2025\SumFourLargest\bin\Debug\SumFourLargest.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\SumFourLargest\bin\Debug\SumFourLargest.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\SumFourLargest\obj\Debug\SumFourLargest.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\SumFourLargest\obj\Debug\SumFourLargest.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\SumFourLargest\obj\Debug\SumFourLargest.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\SumFourLargest\obj\Debug\SumFourLargest.pdb

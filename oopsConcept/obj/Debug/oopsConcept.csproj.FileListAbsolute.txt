@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\oopsConcept\bin\Debug\oopsConcept.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\oopsConcept\bin\Debug\oopsConcept.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\oopsConcept\bin\Debug\oopsConcept.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\oopsConcept\obj\Debug\oopsConcept.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\oopsConcept\obj\Debug\oopsConcept.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\oopsConcept\obj\Debug\oopsConcept.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\oopsConcept\obj\Debug\oopsConcept.pdb

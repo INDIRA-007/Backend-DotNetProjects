@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\Default_ParameterizedConstructor\bin\Debug\Default_ParameterizedConstructor.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\Default_ParameterizedConstructor\bin\Debug\Default_ParameterizedConstructor.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\Default_ParameterizedConstructor\bin\Debug\Default_ParameterizedConstructor.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Default_ParameterizedConstructor\obj\Debug\Default_ParameterizedConstructor.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Default_ParameterizedConstructor\obj\Debug\Default_ParameterizedConstructor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Default_ParameterizedConstructor\obj\Debug\Default_ParameterizedConstructor.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\Default_ParameterizedConstructor\obj\Debug\Default_ParameterizedConstructor.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Default_ParameterizedConstructor\obj\Debug\Default_ParameterizedConstructor.exe.config

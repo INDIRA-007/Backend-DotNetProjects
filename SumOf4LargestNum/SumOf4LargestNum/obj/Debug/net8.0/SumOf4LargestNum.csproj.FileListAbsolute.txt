@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\bin\Debug\net8.0\SumOf4LargestNum.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\bin\Debug\net8.0\SumOf4LargestNum.deps.json
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\bin\Debug\net8.0\SumOf4LargestNum.runtimeconfig.json
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\bin\Debug\net8.0\SumOf4LargestNum.dll
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\bin\Debug\net8.0\SumOf4LargestNum.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\obj\Debug\net8.0\SumOf4LargestNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\obj\Debug\net8.0\SumOf4LargestNum.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\obj\Debug\net8.0\SumOf4LargestNum.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\obj\Debug\net8.0\SumOf4LargestNum.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\obj\Debug\net8.0\SumOf4LargestNum.dll
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\obj\Debug\net8.0\refint\SumOf4LargestNum.dll
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\obj\Debug\net8.0\SumOf4LargestNum.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\obj\Debug\net8.0\SumOf4LargestNum.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\SumOf4LargestNum\SumOf4LargestNum\obj\Debug\net8.0\ref\SumOf4LargestNum.dll

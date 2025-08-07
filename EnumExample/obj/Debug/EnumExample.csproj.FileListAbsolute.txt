@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\EnumExample\obj\Debug\EnumExample.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\EnumExample\obj\Debug\EnumExample.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\EnumExample\obj\Debug\EnumExample.exe.config

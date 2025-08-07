@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\Property\bin\Debug\Property.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\Property\bin\Debug\Property.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\Property\bin\Debug\Property.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Property\obj\Debug\Property.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Property\obj\Debug\Property.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\Property\obj\Debug\Property.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Property\obj\Debug\Property.exe.config

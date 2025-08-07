@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\.Net projects-2025\GenerateAllnumbtvalues\bin\Debug\GenerateAllnumbtvalues.exe.config
+C:\Users\LENOVO\Documents\.Net projects-2025\GenerateAllnumbtvalues\bin\Debug\GenerateAllnumbtvalues.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\GenerateAllnumbtvalues\bin\Debug\GenerateAllnumbtvalues.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\GenerateAllnumbtvalues\obj\Debug\GenerateAllnumbtvalues.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\GenerateAllnumbtvalues\obj\Debug\GenerateAllnumbtvalues.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\GenerateAllnumbtvalues\obj\Debug\GenerateAllnumbtvalues.exe
+C:\Users\LENOVO\Documents\.Net projects-2025\GenerateAllnumbtvalues\obj\Debug\GenerateAllnumbtvalues.pdb
+C:\Users\LENOVO\Documents\.Net projects-2025\GenerateAllnumbtvalues\obj\Debug\GenerateAllnumbtvalues.exe.config

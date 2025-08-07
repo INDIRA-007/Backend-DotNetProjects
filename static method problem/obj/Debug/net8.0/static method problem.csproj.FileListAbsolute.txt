@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Documents\.Net projects-2025\static method problem\obj\Debug\net8.0\static method problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\.Net projects-2025\static method problem\obj\Debug\net8.0\static method problem.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\.Net projects-2025\static method problem\obj\Debug\net8.0\static method problem.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\.Net projects-2025\static method problem\obj\Debug\net8.0\static method problem.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\ExceptionHand\bin\Debug\ExceptionHand.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\ExceptionHand\bin\Debug\ExceptionHand.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\ExceptionHand\bin\Debug\ExceptionHand.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\ExceptionHand\obj\Debug\ExceptionHand.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\ExceptionHand\obj\Debug\ExceptionHand.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\ExceptionHand\obj\Debug\ExceptionHand.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\ExceptionHand\obj\Debug\ExceptionHand.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\ExceptionHand\obj\Debug\ExceptionHand.exe.config
