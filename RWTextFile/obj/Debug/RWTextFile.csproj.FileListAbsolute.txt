@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\RWTextFile\bin\Debug\RWTextFile.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\RWTextFile\bin\Debug\RWTextFile.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\RWTextFile\bin\Debug\RWTextFile.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\RWTextFile\obj\Debug\RWTextFile.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\RWTextFile\obj\Debug\RWTextFile.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\RWTextFile\obj\Debug\RWTextFile.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\RWTextFile\obj\Debug\RWTextFile.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\RWTextFile\obj\Debug\RWTextFile.exe.config
