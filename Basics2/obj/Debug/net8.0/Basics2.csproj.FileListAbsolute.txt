@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\bin\Debug\net8.0\Basics2.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\bin\Debug\net8.0\Basics2.deps.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\bin\Debug\net8.0\Basics2.runtimeconfig.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\bin\Debug\net8.0\Basics2.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\bin\Debug\net8.0\Basics2.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\Basics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\Basics2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\Basics2.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\Basics2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\Basics2.sourcelink.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\Basics2.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\refint\Basics2.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\Basics2.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\Basics2.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Basics2\obj\Debug\net8.0\ref\Basics2.dll

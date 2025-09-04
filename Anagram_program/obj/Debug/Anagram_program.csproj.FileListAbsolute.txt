@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\Anagram_program\bin\Debug\Anagram_program.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\Anagram_program\bin\Debug\Anagram_program.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\Anagram_program\bin\Debug\Anagram_program.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\Anagram_program\obj\Debug\Anagram_program.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Anagram_program\obj\Debug\Anagram_program.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\Anagram_program\obj\Debug\Anagram_program.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\Anagram_program\obj\Debug\Anagram_program.pdb

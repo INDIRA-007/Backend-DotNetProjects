@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\PatternsProblems\bin\Debug\PatternsProblems.exe.config
+C:\Users\LENOVO\Documents\DotNetprojects2025\PatternsProblems\bin\Debug\PatternsProblems.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\PatternsProblems\bin\Debug\PatternsProblems.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\PatternsProblems\obj\Debug\PatternsProblems.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\PatternsProblems\obj\Debug\PatternsProblems.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\PatternsProblems\obj\Debug\PatternsProblems.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\PatternsProblems\obj\Debug\PatternsProblems.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\PatternsProblems\obj\Debug\PatternsProblems.exe.config
