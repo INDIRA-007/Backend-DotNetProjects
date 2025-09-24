@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\AsyncAwaitImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE61A01-91DA-4C54-B265-C5569ED6843A}|AsyncAwaitImplementation.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\asyncawaitimplementation\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE61A01-91DA-4C54-B265-C5569ED6843A}|AsyncAwaitImplementation.csproj|solutionrelative:program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE61A01-91DA-4C54-B265-C5569ED6843A}|AsyncAwaitImplementation.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\asyncawaitimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE61A01-91DA-4C54-B265-C5569ED6843A}|AsyncAwaitImplementation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\AsyncAwaitImplementation\\Program1.cs",
+              "RelativeDocumentMoniker": "Program1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\AsyncAwaitImplementation\\Program1.cs",
+              "RelativeToolTip": "Program1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:17:13.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\AsyncAwaitImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\AsyncAwaitImplementation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:13:29.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

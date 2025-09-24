@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\UnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2CE3E9-5D78-42E9-999E-BBCB63284797}|UnitTest.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\unittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2CE3E9-5D78-42E9-999E-BBCB63284797}|UnitTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2CE3E9-5D78-42E9-999E-BBCB63284797}|UnitTest.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\unittest\\unittestdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2CE3E9-5D78-42E9-999E-BBCB63284797}|UnitTest.csproj|solutionrelative:unittestdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2CE3E9-5D78-42E9-999E-BBCB63284797}|UnitTest.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\unittest\\tests\\unittest1testfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2CE3E9-5D78-42E9-999E-BBCB63284797}|UnitTest.csproj|solutionrelative:tests\\unittest1testfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1TestFile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\UnitTest\\Tests\\UnitTest1TestFile.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1TestFile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\UnitTest\\Tests\\UnitTest1TestFile.cs",
+              "RelativeToolTip": "Tests\\UnitTest1TestFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:52:59.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTestDemo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\UnitTest\\UnitTestDemo.cs",
+              "RelativeDocumentMoniker": "UnitTestDemo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\UnitTest\\UnitTestDemo.cs",
+              "RelativeToolTip": "UnitTestDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:50:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\UnitTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\UnitTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:42:42.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
