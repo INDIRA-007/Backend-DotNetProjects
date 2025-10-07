@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\demosample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\demosample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\demosample.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\demosample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\demosample.sourcelink.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\bin\Debug\net8.0\demosample.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\bin\Debug\net8.0\demosample.deps.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\bin\Debug\net8.0\demosample.runtimeconfig.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\bin\Debug\net8.0\demosample.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\bin\Debug\net8.0\demosample.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\demosample.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\refint\demosample.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\demosample.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\demosample.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\demosample\obj\Debug\net8.0\ref\demosample.dll
