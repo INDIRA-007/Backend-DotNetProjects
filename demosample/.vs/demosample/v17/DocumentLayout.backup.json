@@ -3,8 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC67E9A0-D2BE-4BB9-A2B7-F9DFB1E403BB}|..\\PaymentDemo\\PaymentDemo.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\paymentdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67E9A0-D2BE-4BB9-A2B7-F9DFB1E403BB}|..\\PaymentDemo\\PaymentDemo.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\paymentdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFFA35D-BBD5-4884-AED2-A77DA2F2E6DA}|..\\PaymentsDemo\\PaymentsDemo.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\paymentsdemo\\paymentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67E9A0-D2BE-4BB9-A2B7-F9DFB1E403BB}|..\\PaymentDemo\\PaymentDemo.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\paymentdemo\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67E9A0-D2BE-4BB9-A2B7-F9DFB1E403BB}|..\\PaymentDemo\\PaymentDemo.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\paymentdemo\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFFA35D-BBD5-4884-AED2-A77DA2F2E6DA}|..\\PaymentsDemo\\PaymentsDemo.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\paymentsdemo\\paymentsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67E9A0-D2BE-4BB9-A2B7-F9DFB1E403BB}|..\\PaymentDemo\\PaymentDemo.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\paymentdemo\\paymentgateway\\stripegateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67E9A0-D2BE-4BB9-A2B7-F9DFB1E403BB}|..\\PaymentDemo\\PaymentDemo.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\paymentdemo\\interfaces\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67E9A0-D2BE-4BB9-A2B7-F9DFB1E403BB}|..\\PaymentDemo\\PaymentDemo.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\paymentdemo\\paymentdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\demosample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\demosample\\paymentdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|solutionrelative:paymentdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\demosample\\paymentdemo\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|solutionrelative:paymentdemo\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\demosample\\paymentdemo\\stripegateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|solutionrelative:paymentdemo\\stripegateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\demosample\\paymentdemo\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657DB844-F71D-48C8-8BC1-C5D38F2923A0}|demosample.csproj|solutionrelative:paymentdemo\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2CED8D9-BC4E-4F7D-B4D9-EA87F996D5CE}|..\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\calculatorapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -17,7 +60,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,7 +68,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\PaymentDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\PaymentDemo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T09:04:04.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "..\\PaymentDemo\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "..\\PaymentDemo\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:18:59.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PaymentDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Program.cs",
+              "RelativeToolTip": "..\\PaymentDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:15:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "..\\PaymentDemo\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Services\\PaymentService.cs",
+              "RelativeToolTip": "..\\PaymentDemo\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:14:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentsDemo\\PaymentServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\PaymentsDemo\\PaymentServiceTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentsDemo\\PaymentServiceTests.cs",
+              "RelativeToolTip": "..\\PaymentsDemo\\PaymentServiceTests.cs",
+              "ViewState": "AgIAADoAAAAA/////z8lwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:31:32.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentsDemo",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentsDemo\\PaymentsDemo.csproj",
+              "RelativeDocumentMoniker": "..\\PaymentsDemo\\PaymentsDemo.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentsDemo\\PaymentsDemo.csproj",
+              "RelativeToolTip": "..\\PaymentsDemo\\PaymentsDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T08:31:11.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StripeGateway.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\PaymentGateway\\StripeGateway.cs",
+              "RelativeDocumentMoniker": "..\\PaymentDemo\\PaymentGateway\\StripeGateway.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\PaymentGateway\\StripeGateway.cs",
+              "RelativeToolTip": "..\\PaymentDemo\\PaymentGateway\\StripeGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:12:27.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentDemo",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\PaymentDemo.csproj",
+              "RelativeDocumentMoniker": "..\\PaymentDemo\\PaymentDemo.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\PaymentDemo.csproj",
+              "RelativeToolTip": "..\\PaymentDemo\\PaymentDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T08:11:43.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentGateway.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Interfaces\\IPaymentGateway.cs",
+              "RelativeDocumentMoniker": "..\\PaymentDemo\\Interfaces\\IPaymentGateway.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\Interfaces\\IPaymentGateway.cs",
+              "RelativeToolTip": "..\\PaymentDemo\\Interfaces\\IPaymentGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:11:07.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\PaymentDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\PaymentDemo\\Program.cs",
+              "RelativeToolTip": "PaymentDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:51:16.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:52:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\PaymentDemo\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentDemo\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\PaymentDemo\\Services\\PaymentService.cs",
+              "RelativeToolTip": "PaymentDemo\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:59:05.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StripeGateway.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\PaymentDemo\\StripeGateway.cs",
+              "RelativeDocumentMoniker": "PaymentDemo\\StripeGateway.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\PaymentDemo\\StripeGateway.cs",
+              "RelativeToolTip": "PaymentDemo\\StripeGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:54:56.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPaymentGateway.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\PaymentDemo\\IPaymentGateway.cs",
+              "RelativeDocumentMoniker": "PaymentDemo\\IPaymentGateway.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\PaymentDemo\\IPaymentGateway.cs",
+              "RelativeToolTip": "PaymentDemo\\IPaymentGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:53:15.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\CalculatorApp.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\CalculatorApp.Tests\\UnitTest1.cs",
@@ -34,19 +259,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T06:35:13.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\demosample\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T05:52:58.904Z",
               "EditorCaption": ""
             }
           ]

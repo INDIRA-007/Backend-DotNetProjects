@@ -1,0 +1,6 @@
+@Shopzy_HostAddress = http://localhost:5214
+
+GET {{Shopzy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

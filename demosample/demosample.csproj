@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="PaymentDemo\**" />
+    <EmbeddedResource Remove="PaymentDemo\**" />
+    <None Remove="PaymentDemo\**" />
+  </ItemGroup>
+
 </Project>

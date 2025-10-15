@@ -1,0 +1,32 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "PaymentDemo",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Payments": {
+      "post": {
+        "tags": [
+          "Payments"
+        ],
+        "parameters": [
+          {
+            "name": "amount",
+            "in": "query",
+            "schema": {
+              "type": "number",
+              "format": "double"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

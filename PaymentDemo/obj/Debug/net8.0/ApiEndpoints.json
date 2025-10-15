@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PaymentDemo.Controllers.PaymentsController",
+    "Method": "Pay",
+    "RelativePath": "api/Payments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "amount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
