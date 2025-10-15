@@ -1,0 +1,38 @@
+﻿
+<div data-name="@server.Name"
+     data-status="Server is @(server.IsOnline ? "online" : "offline")"
+      style="color:@(server.IsOnline?"green":"red")">
+    @server.Name is in @server.City that is @(server.IsOnline ? "online" : "offline"))
+</div>
+
+<p>
+    @server.Name is in @server.City
+</p>
+
+@* <ul>
+    @foreach(var server in servers)
+    {
+        <li>
+            @server.Name is @server.City is 
+            <span style="color:@(server.IsOnline?"green":"red")">
+                @(server.IsOnline ? "online" : "offline")
+            </span>
+        </li>
+    }
+
+</ul> *@
+
+
+@code {
+    private Server server = new Server {
+        Name = "Server 1", City="Toronto"};
+
+        private List<Server> servers = new List<Server>
+        {
+            new Server { Name = "Server 1", City="Toronto", IsOnline=true},
+            new Server { Name = "Server 2", City="New York", IsOnline=false},
+            new Server { Name = "Server 3", City="London", IsOnline=true},
+            new Server { Name = "Server 4", City="Tokyo", IsOnline=false},
+        };  
+
+}
