@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\pages\\editserver.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\models\\serverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\models\\serverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|solutionrelative:components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D444500-D1E7-4439-ABCC-0E3FB833C50C}|ServerManagement.csproj|c:\\users\\lenovo\\documents\\dotnetprojects2025\\servermanagement\\components\\models\\citiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +50,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditServer.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Pages\\EditServer.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\EditServer.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Pages\\EditServer.razor",
+              "RelativeToolTip": "Components\\Pages\\EditServer.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T12:46:08.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerComponent.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
+              "RelativeDocumentMoniker": "Components\\Controls\\ServerComponent.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
+              "RelativeToolTip": "Components\\Controls\\ServerComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T06:23:30.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Models\\Server.cs",
+              "RelativeDocumentMoniker": "Components\\Models\\Server.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Models\\Server.cs",
+              "RelativeToolTip": "Components\\Models\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:57:24.269Z"
             },
             {
               "$type": "Document",
@@ -62,38 +103,23 @@
               "RelativeToolTip": "Components\\Pages\\Servers.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T06:22:17.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:22:17.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Models\\Server.cs",
-              "RelativeDocumentMoniker": "Components\\Models\\Server.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Models\\Server.cs",
-              "RelativeToolTip": "Components\\Models\\Server.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T12:57:24.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditServer.razor",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Pages\\EditServer.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\EditServer.razor",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Pages\\EditServer.razor",
-              "RelativeToolTip": "Components\\Pages\\EditServer.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T12:46:08.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T13:55:24.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -101,12 +127,11 @@
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T06:25:00.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:25:00.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ServerRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Models\\ServerRepository.cs",
               "RelativeDocumentMoniker": "Components\\Models\\ServerRepository.cs",
@@ -114,25 +139,11 @@
               "RelativeToolTip": "Components\\Models\\ServerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T12:49:22.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T12:49:22.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServerComponent.razor",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "RelativeDocumentMoniker": "Components\\Controls\\ServerComponent.razor",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "RelativeToolTip": "Components\\Controls\\ServerComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T06:23:30.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CitiesRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Components\\Models\\CitiesRepository.cs",
               "RelativeDocumentMoniker": "Components\\Models\\CitiesRepository.cs",
@@ -140,25 +151,23 @@
               "RelativeToolTip": "Components\\Models\\CitiesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:44:45.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T11:44:45.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServerManagement",
+              "DocumentIndex": 8,
+              "Title": "ServerManagement.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\ServerManagement.csproj",
               "RelativeDocumentMoniker": "ServerManagement.csproj",
               "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\ServerManagement.csproj",
               "RelativeToolTip": "ServerManagement.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-15T11:03:16.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T11:03:16.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\ServerManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
