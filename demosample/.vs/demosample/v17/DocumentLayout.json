@@ -89,8 +89,7 @@
               "RelativeToolTip": "..\\PaymentDemo\\Controllers\\PaymentsController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAowBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:18:59.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:18:59.67Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "..\\PaymentDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:15:44.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:15:44.279Z"
             },
             {
               "$type": "Document",
@@ -115,8 +113,7 @@
               "RelativeToolTip": "..\\PaymentDemo\\Services\\PaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:14:14.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:14:14.294Z"
             },
             {
               "$type": "Document",
@@ -128,21 +125,19 @@
               "RelativeToolTip": "..\\PaymentsDemo\\PaymentServiceTests.cs",
               "ViewState": "AgIAADoAAAAA/////z8lwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:31:32.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:31:32.809Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PaymentsDemo",
+              "Title": "PaymentsDemo.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentsDemo\\PaymentsDemo.csproj",
               "RelativeDocumentMoniker": "..\\PaymentsDemo\\PaymentsDemo.csproj",
               "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentsDemo\\PaymentsDemo.csproj",
               "RelativeToolTip": "..\\PaymentsDemo\\PaymentsDemo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-07T08:31:11.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:31:11.197Z"
             },
             {
               "$type": "Document",
@@ -154,21 +149,19 @@
               "RelativeToolTip": "..\\PaymentDemo\\PaymentGateway\\StripeGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:12:27.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:12:27.544Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PaymentDemo",
+              "Title": "PaymentDemo.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\PaymentDemo.csproj",
               "RelativeDocumentMoniker": "..\\PaymentDemo\\PaymentDemo.csproj",
               "ToolTip": "C:\\Users\\LENOVO\\Documents\\DotNetprojects2025\\PaymentDemo\\PaymentDemo.csproj",
               "RelativeToolTip": "..\\PaymentDemo\\PaymentDemo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-07T08:11:43.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:11:43.965Z"
             },
             {
               "$type": "Document",
@@ -180,8 +173,7 @@
               "RelativeToolTip": "..\\PaymentDemo\\Interfaces\\IPaymentGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:11:07.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:11:07.467Z"
             },
             {
               "$type": "Document",
@@ -193,8 +185,7 @@
               "RelativeToolTip": "PaymentDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T07:51:16.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T07:51:16.671Z"
             },
             {
               "$type": "Document",
@@ -206,8 +197,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T05:52:58.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T05:52:58.904Z"
             },
             {
               "$type": "Document",
@@ -219,8 +209,7 @@
               "RelativeToolTip": "PaymentDemo\\Services\\PaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T07:59:05.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T07:59:05.53Z"
             },
             {
               "$type": "Document",
@@ -232,8 +221,7 @@
               "RelativeToolTip": "PaymentDemo\\StripeGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T07:54:56.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T07:54:56.529Z"
             },
             {
               "$type": "Document",
@@ -245,8 +233,7 @@
               "RelativeToolTip": "PaymentDemo\\IPaymentGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T07:53:15.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T07:53:15.138Z"
             },
             {
               "$type": "Document",
@@ -258,8 +245,7 @@
               "RelativeToolTip": "..\\CalculatorApp.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:35:13.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T06:35:13.357Z"
             }
           ]
         }

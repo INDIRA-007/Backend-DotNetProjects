@@ -1,13 +1,13 @@
-﻿
-@page "/servers/{id:int}"
+﻿@page "/servers/{id:int}"
 
+@inject NavigationManager NavigationManager
 <h3>Edit Server</h3>
 <br />
 <br />
 
 @if (server != null)
 {
-    <EditForm Model="server" FormName="formServer" OnSubmit="Submit">
+    <EditForm Model="server" FormName="formServer" OnValidSubmit="Submit">
 
         <DataAnnotationsValidator></DataAnnotationsValidator>
         <ValidationSummary></ValidationSummary>
@@ -21,6 +21,9 @@
             <div class="col-6">
                 <InputText @bind-Value="server.Name" class="form-control"></InputText>
             </div>
+            <div class="col">
+                <ValidationMessage For="() => server.Name"></ValidationMessage>
+            </div>
         </div>
 
         <div class="row mb-3">
@@ -29,6 +32,9 @@
             </div>
             <div class="col-6">
                 <InputText @bind-Value="server.City" class="form-control"></InputText>
+            </div>
+             <div class="col">
+                <ValidationMessage For="() => server.Name"></ValidationMessage>
             </div>
         </div>
 
@@ -68,8 +74,8 @@
         if(server != null)
         {
             ServerRepository.UpdateServer(server.Id,server);
-            
         }
+        NavigationManager.NavigateTo("/servers");
 
     }
 }

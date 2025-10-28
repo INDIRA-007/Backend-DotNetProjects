@@ -37,16 +37,27 @@
             </span>
             &nbsp;
             <a href="/servers/@server.Id" class="btn btn-link">Edit</a>  
+            &nbsp;
+            <button type="button" class="btn btn-primary" @onclick="@(()=> { DeleteServer(server.Id);})">Delete</button>
         </li>
     }
 
 </ul>
 <br />
 <br />
-
+<p>
+    <a href="/servers/add" class="btn btn-primary">Add Server</a>
+</p>
 
 @code {
     private List<Server> servers = ServerRepository.GetServersByCity("Toronto");// ServerRepository.GetServersByCity("Toronto");
     private List<string> cities = CitiesRepository.GetCities();
+
+    private void DeleteServer(int serverId){
+        if(serverId > 0)
+        {
+            ServerRepository.DeleteServer(serverId);
+        }
+    }
 
 }
