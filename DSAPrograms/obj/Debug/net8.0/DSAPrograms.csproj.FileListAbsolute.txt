@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\bin\Debug\net8.0\DSAPrograms.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\bin\Debug\net8.0\DSAPrograms.deps.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\bin\Debug\net8.0\DSAPrograms.runtimeconfig.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\bin\Debug\net8.0\DSAPrograms.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\bin\Debug\net8.0\DSAPrograms.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\DSAPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\DSAPrograms.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\DSAPrograms.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\DSAPrograms.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\DSAPrograms.sourcelink.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\DSAPrograms.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\refint\DSAPrograms.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\DSAPrograms.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\DSAPrograms.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\DSAPrograms\obj\Debug\net8.0\ref\DSAPrograms.dll

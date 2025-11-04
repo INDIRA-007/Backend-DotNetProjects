@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\bin\Debug\net8.0\LinearSearchArray.exe
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\bin\Debug\net8.0\LinearSearchArray.deps.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\bin\Debug\net8.0\LinearSearchArray.runtimeconfig.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\bin\Debug\net8.0\LinearSearchArray.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\bin\Debug\net8.0\LinearSearchArray.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\LinearSearchArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\LinearSearchArray.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\LinearSearchArray.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\LinearSearchArray.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\LinearSearchArray.sourcelink.json
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\LinearSearchArray.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\refint\LinearSearchArray.dll
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\LinearSearchArray.pdb
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\LinearSearchArray.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\DotNetprojects2025\LinearSearchArray\obj\Debug\net8.0\ref\LinearSearchArray.dll
